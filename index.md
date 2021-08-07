@@ -43,3 +43,12 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
     const webamp = new Webamp();
     webamp.renderWhenReady(app);
 </script>
+
+.webamp-desktop {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: -1;
+}
