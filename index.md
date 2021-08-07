@@ -52,5 +52,3 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
   bottom: 0;
   z-index: -1;
 }
-
-Get milkdrop on Galaxy s3 right now!
